@@ -1,3 +1,6 @@
+#include "main.h"
+#include <stddef.h>
+
 /**
 
  * _atoi - changes a string to an int
